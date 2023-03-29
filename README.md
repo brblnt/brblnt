@@ -8,7 +8,7 @@
 
 <br/>  
 
-
+<!--
 <table aling="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -46,7 +46,7 @@
 </div>
 
 </td></tr></table>  
-
+-->
 <br/>  
 
 <div align="center">
